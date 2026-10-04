@@ -1,0 +1,87 @@
+body {
+    background-image: url("images.jfif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: #FCECD8;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #FCECD8;
+    font-size: 45px;
+}
+
+h2 {
+    color: #D8B48A;
+}
+
+.room {
+    width: 600px;
+    margin: 90px auto;
+    padding: 45px;
+
+    background-color: rgba(0, 0, 0, 0.80);
+
+    border: 2px solid #D8B48A;
+    border-radius: 10px;
+}
+
+p {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.button {
+    display: block;
+    width: 350px;
+    margin: 25px auto;
+    padding: 15px;
+
+    background-color: #597928;
+    color: #FFFFFF;
+
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: #789A3A;
+}
+.escape {
+    width: 500px;
+    margin: 150px auto;
+    padding: 55px;
+
+    background-color: rgba(25, 12, 5, 0.90);
+
+    border: 3px solid #D6A756;
+    border-radius: 18px;
+
+    box-shadow: 0 0 30px rgba(214, 167, 86, 0.5);
+}
+
+.escape h1 {
+    color: #F2C879;
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.escape .button {
+    width: 250px;
+    margin: auto;
+
+    background-color: #496329;
+    color: #FFF3DC;
+
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.escape .button:hover {
+    background-color: #C46A32;
+}
