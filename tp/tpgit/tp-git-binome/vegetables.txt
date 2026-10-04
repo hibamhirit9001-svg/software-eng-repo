@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+tomato
+=======
+potato
+>>>>>>> 328d3ceeece357c5817c8ceab48fe9308419c3ac
+eggplant
+zucchini
